@@ -4,3 +4,7 @@ Cola o código em uma IDE, roda, ele vai abrir as opções, primeiro escolha a o
 Escolha o número de processos que será inserido e depois escolha manual ou aleatório.
 Para testar os códigos, usei os exemplos de entrada e saída fornecido pro trabalho, mas em alguns algoritmos não consegui chegar exatamente no resultado esperado, infelizmente.
 Creio que o código está bom e funcional, mas não está perfeito. Preciso tirar 7,3 pra passar o semestre, ajuda ai, professor, por favor.
+
+Há alguns erros em alguns cálculos, mas eu fiz de tudo para encontrar os erros e não consegui. Claro, houve bem mais erros, mas fui ajustando, o que sobrou foi porque realmente
+não achei. 
+Mesmo assim, para não deixar em branco, deixei todas funções funcionando, mesmo que algumas, funcionando errado.

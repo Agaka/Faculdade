@@ -18,11 +18,8 @@ def fcfs(processos):
     tempo_atual = 0
     historico = []
 
-    # Ordena os processos por tempo de chegada
-    processos_ordenados = sorted(processos, key=lambda x: x.tempo_chegada)
-
     # Itera pelos processos ordenados
-    for processo in processos_ordenados:
+    for processo in processos:
         # Verifica se o tempo atual é menor que o tempo de chegada do processo
         if tempo_atual < processo.tempo_chegada:
             # Se o tempo atual é menor que o tempo de chegada, avança o tempo atual.
