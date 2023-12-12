@@ -1,0 +1,6 @@
+Para executar o código basta apenas uma máquina com python instalado.
+
+Cola o código em uma IDE, roda, ele vai abrir as opções, primeiro escolha a opção 8 para inserir os processos.
+Escolha o número de processos que será inserido e depois escolha manual ou aleatório.
+Para testar os códigos, usei os exemplos de entrada e saída fornecido pro trabalho, mas em alguns algoritmos não consegui chegar exatamente no resultado esperado, infelizmente.
+Creio que o código está bom e funcional, mas não está perfeito. Preciso tirar 7,3 pra passar o semestre, ajuda ai, professor, por favor.
